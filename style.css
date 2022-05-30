@@ -1,0 +1,11 @@
+.container{
+    margin: 5rem auto;
+}
+.corny{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.aaa{
+    text-decoration: none;
+}
